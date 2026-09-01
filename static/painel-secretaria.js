@@ -6,7 +6,7 @@ document.head.appendChild(swalScript);
 swalScript.onload = () => {
     console.log('SweetAlert2 carregado com sucesso');
 };
-const API_BASE = 'https://api-escala.onrender.com/api';
+const API_BASE = 'https://api-rodoviaa.squareweb.app/api';
 // ============================================================
 // 1. ESTADO GLOBAL
 // ============================================================
