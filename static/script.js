@@ -1,6 +1,6 @@
 // Configuração da API
 // IMPORTANTE: Use a URL do seu Render aqui
-const API_BASE_URL = 'https://api-escala.onrender.com'; // <-- Cole sua URL do Render aqui se mudou
+const API_BASE_URL = 'https://api-rodoviaa.squareweb.app'; // <-- Cole sua URL do Render aqui se mudou
 
 // Estado da aplicação
 let currentTab = 'scale';
